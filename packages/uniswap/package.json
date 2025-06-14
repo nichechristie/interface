@@ -57,7 +57,7 @@
     "lodash": "4.17.21",
     "openapi-typescript-codegen": "0.27.0",
     "react": "18.2.0",
-    "react-i18next": "14.1.0",
+    "react-i18next": "15.5.3",
     "react-native": "0.73.6",
     "react-native-appsflyer": "6.13.1",
     "react-native-device-info": "10.0.2",
@@ -71,10 +71,10 @@
     "redux": "4.2.1",
     "statsig-react": "1.32.0",
     "statsig-react-native": "4.11.0",
-    "ui": "workspace:^",
-    "utilities": "workspace:^",
+    "ui": "0.0.0",
+    "utilities": "1.0.6",
     "uuid": "9.0.0",
-    "wagmi": "2.9.3",
+    "wagmi": "2.12.23",
     "wcag-contrast": "3.0.0"
   },
   "devDependencies": {

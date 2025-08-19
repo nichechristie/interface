@@ -16,7 +16,7 @@
     "depcheck": "1.4.7",
     "dotenv-cli": "7.1.0",
     "husky": "8.0.3",
-    "i18next": "23.10.0",
+    "i18next": "23.16.8",
     "i18next-parser": "8.6.0",
     "inquirer": "12.6.0",
     "js-yaml": "4.1.0",

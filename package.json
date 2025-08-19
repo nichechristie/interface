@@ -9,7 +9,7 @@
     "@ethersproject/keccak256": "5.7.0",
     "@manypkg/cli": "0.19.2",
     "@types/inquirer": "9.0.8",
-    "@typescript-eslint/eslint-plugin": "6.20.0",
+    "@typescript-eslint/eslint-plugin": "6.21.0",
     "@typescript-eslint/parser": "6.20.0",
     "clipboardy": "4.0.0",
     "danger": "11.2.6",

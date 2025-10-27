@@ -135,7 +135,7 @@
     "react-native-fast-image": "8.6.3",
     "react-native-gesture-handler": "2.22.1",
     "react-native-get-random-values": "1.11.0",
-    "react-native-image-colors": "1.5.2",
+    "react-native-image-colors": "2.5.0",
     "react-native-image-picker": "7.1.0",
     "react-native-keyboard-controller": "1.17.5",
     "react-native-localize": "2.2.6",
@@ -170,7 +170,7 @@
     "uniswap": "workspace:^",
     "utilities": "workspace:^",
     "uuid": "9.0.0",
-    "wallet": "workspace:^"
+    "wallet": "0.0.1"
   },
   "devDependencies": {
     "@babel/core": "7.26.0",

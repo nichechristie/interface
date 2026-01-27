@@ -109,7 +109,7 @@
     "dotenv": "16.0.3",
     "eslint-plugin-rulesdir": "0.2.2",
     "ethers": "5.7.2",
-    "expo": "52.0.46",
+    "expo": "53.0.0",
     "expo-blur": "14.0.3",
     "expo-camera": "16.0.18",
     "expo-clipboard": "7.0.1",
@@ -122,7 +122,7 @@
     "expo-web-browser": "14.0.2",
     "fuse.js": "6.5.3",
     "i18next": "23.10.0",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "react": "18.3.1",
     "react-freeze": "1.0.3",
     "react-i18next": "14.1.0",
@@ -167,10 +167,10 @@
     "sp-react-native-in-app-updates": "1.5.0",
     "ts-node": "10.9.2",
     "typed-redux-saga": "1.5.0",
-    "uniswap": "workspace:^",
-    "utilities": "workspace:^",
+    "uniswap": "0.0.1",
+    "utilities": "1.0.6",
     "uuid": "9.0.0",
-    "wallet": "workspace:^"
+    "wallet": "0.0.1"
   },
   "devDependencies": {
     "@babel/core": "7.26.0",

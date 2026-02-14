@@ -187,7 +187,7 @@
     "uniswap": "workspace:^",
     "utilities": "workspace:^",
     "uuid": "9.0.0",
-    "wallet": "workspace:^"
+    "wallet": "0.0.1"
   },
   "devDependencies": {
     "@babel/core": "7.26.0",
